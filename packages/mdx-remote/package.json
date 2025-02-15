@@ -43,7 +43,7 @@
     "eslint-config-custom": "workspace:*",
     "fast-glob": "^3.3.3",
     "fumadocs-core": "workspace:*",
-    "next": "15.1.6",
+    "next": "15.1.7",
     "tsconfig": "workspace:*",
     "unified": "^11.0.5",
     "vfile": "^6.0.3"
