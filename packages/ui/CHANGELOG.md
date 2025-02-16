@@ -1,5 +1,12 @@
 # next-docs-ui
 
+## 15.0.9
+
+### Patch Changes
+
+- fa5b908: Fix React 18 compatibility
+  - fumadocs-core@15.0.9
+
 ## 15.0.8
 
 ### Patch Changes
