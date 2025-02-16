@@ -89,7 +89,7 @@
     "@types/react-dom": "^19.0.3",
     "eslint-config-custom": "workspace:*",
     "fumadocs-core": "workspace:*",
-    "next": "15.1.6",
+    "next": "15.1.7",
     "tailwindcss": "^4.0.5",
     "tsc-alias": "^1.8.10",
     "tsconfig": "workspace:*"
