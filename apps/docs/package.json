@@ -36,7 +36,7 @@
     "lucide-react": "^0.475.0",
     "next": "15.1.7",
     "octokit": "^4.1.2",
-    "oxc-transform": "^0.51.0",
+    "oxc-transform": "^0.52.0",
     "phenomenon": "^1.6.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
